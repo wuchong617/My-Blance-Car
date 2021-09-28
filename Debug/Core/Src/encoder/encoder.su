@@ -1,0 +1,2 @@
+encoder.c:16:9:encoder_init	8	static
+encoder.c:58:7:getspeed_channel2	16	static

@@ -1,0 +1,4 @@
+stm32f1xx_ll_usart.h:1850:26:LL_USART_IsActiveFlag_TC	16	static
+stm32f1xx_ll_usart.h:2473:22:LL_USART_TransmitData8	16	static
+SerialPrintf.c:7:5:__io_putchar	16	static
+SerialPrintf.c:22:6:SetSerialPrintfTarget	16	static

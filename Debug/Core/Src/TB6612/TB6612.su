@@ -1,0 +1,11 @@
+stm32f1xx_ll_tim.h:1063:22:LL_TIM_EnableCounter	16	static
+stm32f1xx_ll_tim.h:1540:22:LL_TIM_CC_EnableChannel	16	static
+stm32f1xx_ll_tim.h:2045:22:LL_TIM_OC_SetCompareCH1	16	static
+stm32f1xx_ll_tim.h:2059:22:LL_TIM_OC_SetCompareCH2	16	static
+stm32f1xx_ll_gpio.h:804:22:LL_GPIO_SetOutputPin	16	static
+stm32f1xx_ll_gpio.h:833:22:LL_GPIO_ResetOutputPin	16	static
+TB6612.c:12:6:TB6612_IO_Iint	4	static
+TB6612.c:28:6:TB6612_init	16	static
+TB6612.c:41:6:Set_Left_PWMValue	24	static
+TB6612.c:73:6:Set_Right_PWMValue	24	static
+TB6612.c:105:6:TB6612_Break	16	static

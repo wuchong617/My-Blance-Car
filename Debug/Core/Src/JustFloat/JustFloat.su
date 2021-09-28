@@ -1,0 +1,4 @@
+stm32f1xx_ll_usart.h:1850:26:LL_USART_IsActiveFlag_TC	16	static
+stm32f1xx_ll_usart.h:2473:22:LL_USART_TransmitData8	16	static
+JustFloat.c:5:6:SetJustFloatPort	16	static
+JustFloat.c:10:6:SendJustFloatFrame	24	static
